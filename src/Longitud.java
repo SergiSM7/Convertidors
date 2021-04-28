@@ -1,3 +1,7 @@
+/**
+ * @author sergi
+ *
+ */
 public class Longitud {
     private double metre;
 
