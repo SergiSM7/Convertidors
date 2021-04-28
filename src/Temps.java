@@ -1,3 +1,7 @@
+/**
+ * @author sergi
+ *
+ */
 public class Temps {
     private double segons;
 
