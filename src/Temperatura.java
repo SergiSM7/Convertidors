@@ -1,5 +1,9 @@
 
 
+/**
+ * @author sergi
+ *
+ */
 public class Temperatura {
     private double kelvin;
 
