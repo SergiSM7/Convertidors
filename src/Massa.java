@@ -1,3 +1,7 @@
+/**
+ * @author sergi
+ *
+ */
 public class Massa {
     private double kg;
 
